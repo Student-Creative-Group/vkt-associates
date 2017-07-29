@@ -1015,6 +1015,11 @@ p {
   margin-bottom: -86px;
 }
 
+.link {
+  color: #fff;
+  text-decoration: none;
+}
+
 @media (max-width: 991px) {
   .button {
     background-color: #0bd685;
